@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hr-system.iml" filepath="$PROJECT_DIR$/.idea/hr-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payroll-api/payroll-api/payroll-api.iml" filepath="$PROJECT_DIR$/payroll-api/payroll-api/payroll-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-api/user-api/user-api.iml" filepath="$PROJECT_DIR$/user-api/user-api/user-api.iml" />
+    </modules>
+  </component>
+</project>
